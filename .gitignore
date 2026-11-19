@@ -1,2 +1,6 @@
-test.js
+archivos_js/ 
+
 *.js
+test.js
+
+.venv/
